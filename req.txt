@@ -1,0 +1,4 @@
+Decentralized Voting system
+1. Registration: Every Voter should register to the smart contract - before 14th July 2024. (Keep track of his wallet address): done
+2. Cast a vote : check if the voter is registered and track the incoming votes.
+3. Backlist : if a voter tries to cast his vote twice, remove his previous vote and move him into the blacklist.
